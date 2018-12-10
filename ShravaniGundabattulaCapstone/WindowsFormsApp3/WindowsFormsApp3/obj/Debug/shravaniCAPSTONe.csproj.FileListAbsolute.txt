@@ -1,0 +1,12 @@
+C:\Users\shrav\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\shrav\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\shrav\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\shrav\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\shravaniCAPSTONe.csprojAssemblyReference.cache
+C:\Users\shrav\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\shrav\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\shrav\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\shravaniCAPSTONe.csproj.GenerateResource.cache
+C:\Users\shrav\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\shravaniCAPSTONe.csproj.CoreCompileInputs.cache
+C:\Users\shrav\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\shrav\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\shrav\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Database1.mdf
+C:\Users\shrav\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Database1_log.ldf
